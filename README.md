@@ -10,14 +10,15 @@ AXI Bus 기반으로 연결하여 구현한 캡스톤디자인 프로젝트입�
 
 - CPU RTL 설계
 - AXI Master Interface 구현
-- Memory Slave Interface 구현
-- UART Controller 구현
+- AXI Slave Interface 구현
+  - Memory Controller 구현
+  - UART Controller 구현
 - 7-Segment 출력
-- Vivado ILA를 활용한 FPGA 동작 검증
+- Vivado ILA(Integrated Logic Analyzer)를 활용한 FPGA 동작 검증
 
 ## Development Environment
 
 - Verilog HDL
 - Vivado
-- FPGA
+- FPGA(ARTIX-7 AX7035)
 - AXI Protocol
