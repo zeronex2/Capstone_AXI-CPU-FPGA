@@ -22,7 +22,7 @@ module cpu_core(
     reg [2:0]  op;
     reg        E,I,S;
 
-    wire [7:0] D; //decoder °á°ú°ª
+    wire [7:0] D; //decoder Â°Ã¡Â°ÃºÂ°Âª
 
     parameter
     CLA = 16'h7800, CLE = 16'h7400, CMA = 16'h7200,
