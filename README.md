@@ -3,7 +3,7 @@ AXI 기반 CPU 설계 및 FPGA 구현
 (Design and FPGA Implementation of a Custom CPU Based on AXI)
 
 FPGA 환경에서 CPU, Memory, UART, 7-Segment를
-AXI Bus 기반으로 연결하여 구현한 캡스톤디자인 프로젝트입니다.
+AXI4-Lite Protocol 기반으로 연결하여 구현한 캡스톤디자인 프로젝트입니다.
 
 
 ## 주요 구현 내용
